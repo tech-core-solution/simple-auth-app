@@ -1,0 +1,130 @@
+{
+  "paper": {
+    "en": {
+      "date": "3 January 2022",
+      "time": "7 minutes",
+      "title": "CSS for Sites performance 3 en",
+      "url": "css-for-sites-performance-3",
+      "resume": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+      "keywords": ["CSS", "Styled component", "Interpolation & Style"],
+      "topics": [
+        {
+          "header": "Why Does Happen",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "What can be done about it",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "Conclusion",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        }
+      ],
+      "references": [
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        }
+      ]
+    },
+    "pt": {
+      "date": "3 January 2022",
+      "time": "7 minutes",
+      "title": "CSS for Sites performance 3 pt",
+      "url": "css-for-sites-performance-3",
+      "resume": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+      "keywords": ["CSS", "Styled component", "Interpolation & Style"],
+      "topics": [
+        {
+          "header": "Why Does Happen",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "What can be done about it",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "Conclusion",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        }
+      ],
+      "references": [
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        }
+      ]
+    },
+    "cv": {
+      "date": "3 January 2022",
+      "time": "7 minutes",
+      "title": "CSS for Sites performance 3 cv",
+      "url": "css-for-sites-performance-3",
+      "resume": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+      "keywords": ["CSS", "Styled component", "Interpolation & Style"],
+      "topics": [
+        {
+          "header": "Why Does Happen",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "What can be done about it",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        },
+        {
+          "header": "Conclusion",
+          "content": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work. As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work.",
+          "img": null
+        }
+      ],
+      "references": [
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        },
+        {
+          "name": "The way to performance and efficiency",
+          "author": "Carlos Alberto (2016)",
+          "url": "https://www.google.com"
+        }
+      ]
+    }
+  }
+}

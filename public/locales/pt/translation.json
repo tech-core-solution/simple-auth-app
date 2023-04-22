@@ -1,0 +1,153 @@
+{
+  "main": {
+    "sweat": "Aló, eu sou",
+    "name": "Roberto Medina",
+    "motto": "Eu construo coisas por meio de pesquisa e engenharia de software.",
+    "description": " I'm a software engineer passionate in transforming complex problems into elegant solutions through code and innovation.",
+    "devProcess": "This Portfolio Still in development process!"
+  },
+  "navbar": {
+    "aboutMe": "Sobre Mim",
+    "projects": "Projetos",
+    "blog": "Blog",
+    "contact": "Contato",
+    "resume": "Curriculo",
+    "menuOptions": "Opções de Menu",
+    "socialLinks": "Links Sociais",
+    "languageOptions": "Opções de Idioma"
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "subTitle": "Get to know a little bit about me",
+    "personalInfo": {
+      "title": "Personal Info",
+      "text": "My name is Roberto Medina and I am 23 years old. I am a Software Engineer, with a passion for building and creating new software solutions. I have 3 years of experience in Software Engineer, and have had the opportunity to work on a wide range of projects throughout my career."
+    },
+    "professionalInfo": {
+      "title": "My Resume",
+      "text": "As a software engineer with three years of experience, I continue to be driven by my passion for building and creating. I am constantly seeking out new challenges and pushing myself to develop innovative solutions that can make a real difference in people's lives.",
+      "button": "Baixar CV"
+    },
+    "schoolInfo": {
+      "title": "My Education",
+      "parteOne": "I have a strong academic background in computer science, having earned my degree from",
+      "parteTwo": "Technical University of the Atlantic (UTA)",
+      "parteThree": ", one of the top institutions for computer science in my country. During my time at UTA, I gained a deep understanding of the fundamental principles of computer science, including programming, algorithms, data structures, and software design."
+    }
+  },
+  "workHistory": {
+    "title": "Nhe históric de traboi",
+    "subTitle": "Ukê ke m fezê durante nhe vida profissional",
+    "companies": {
+      "devGo": {
+        "startDate": "May 2, 2022",
+        "endDate": "Present",
+        "acronym": "DevGo",
+        "name": "DevGo",
+        "position": "Software Engineer",
+        "doings": {
+          "one": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "two": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "three": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies"
+        }
+      },
+      "cvbooking": {
+        "startDate": "May 2, 2022",
+        "endDate": "Present",
+        "acronym": "cvbooking",
+        "name": "cvbooking",
+        "position": "Software Engineer",
+        "doings": {
+          "one": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "two": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "three": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies"
+        }
+      },
+      "uta": {
+        "startDate": "May 2, 2022",
+        "endDate": "Present",
+        "acronym": "UTA",
+        "name": "Technical University of the Atlantic",
+        "position": "Software Engineer",
+        "doings": {
+          "one": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "two": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies",
+          "three": "I worked as a Frontend developer for 2 software products using React Js, Angular and TypeScript as development technologies"
+        }
+      }
+    }
+  },
+  "myActivities": {
+    "title": "O que eu tenho feito",
+    "subTitle": "Um resumo da minha vida profissional",
+    "activities": {
+      "title": "Over the last years,",
+      "textOne": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data.",
+      "textTwo": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data analysis and IT technologies, delivering high quality work."
+    }
+  },
+  "projects":{
+    "title": "Alguns projetos em que trabalhei",
+    "subTitle": "Projetos pessoais e de nível empresarial",
+    "projects": {
+      "masrapt": {
+        "title": "Masrapt",
+        "description": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data."
+      },
+      "cvbooking": {
+        "title": "cvbooking",
+        "description": "As a young Software Engineer / Software Developer, with a considerable level of knowledge and some time of experience, working with software development technologies and data."
+      }
+    }
+  },
+  "otherProjects": {
+    "title": "Outros Projetos Notáveis",
+    "subTitle": "Coisas que me interessam e eu testo",
+    "projects": {
+      "cvbooking": {
+        "name": "cvbooking",
+        "description": "As a young Software Engineer / Software Developer, with a re rv considerable level of  erwer wer we r"
+      },
+      "caseCelestina": {
+        "name": "Case Celestina",
+        "description": "As a young Software Engineer / Software Developer, with a re rv considerable level of  erwer wer we r"
+      },
+      "randomQuestion": {
+        "name": "Random Question",
+        "description": "As a young Software Engineer / Software Developer, with a re rv considerable level of  erwer wer we r"
+      }
+    }
+  },
+  "myBlog": {
+    "title": "O meu Blog",
+    "subTitle": "Pesquisas e avaliações que faço sobre diversos assuntos"
+  },
+  "contact": {
+    "title": "Me envie uma mensagem",
+    "sendButton": "Enviar",
+    "formFields": {
+      "name": {
+        "label": "O teu Nome",
+        "placeholder": "Introduza o teu nome"
+      },
+      "email": {
+        "label": "O teu Email",
+        "placeholder": "Introduza o teu email"
+      },
+      "message": {
+        "label": "A tua Mensagem",
+        "placeholder": "Introduza o tua mensagem"
+      }
+    }
+  },
+  "notFound": {
+    "title": "OOooops...",
+    "subTitle": "Algo deu errado aqui...",
+    "texts": {
+      "one": "Desculpe, mas não encontrei a página que você estava procurando",
+      "two": "Tente retornar à página inicial"
+    },
+    "button": "Homepage"
+  },
+  "copyRight": "por Roberto Carlos Medina"
+}
